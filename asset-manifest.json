@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://akraaz95.github.io/csb-hswmmt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://akraaz95.github.io/csb-hswmmt/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://akraaz95.github.io/csb-hswmmt/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://akraaz95.github.io/csb-hswmmt/static/js/runtime-main.48e9e523.js",
+    "runtime-main.js.map": "https://akraaz95.github.io/csb-hswmmt/static/js/runtime-main.48e9e523.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://akraaz95.github.io/csb-hswmmt/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://akraaz95.github.io/csb-hswmmt/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://akraaz95.github.io/csb-hswmmt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://akraaz95.github.io/csb-hswmmt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://akraaz95.github.io/csb-hswmmt/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e9e523.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
